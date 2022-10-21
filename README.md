@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-Demo on github Pages 
+Demo on github Pages https://alisakrasnopolina.github.io/russian-travel/
 
 ## Project description
 
