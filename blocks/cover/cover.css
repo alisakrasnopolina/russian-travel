@@ -1,0 +1,11 @@
+.cover {
+  width: calc(100% - 2 * 48px);
+  margin: auto;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 1140px) {
+  .cover {
+    width: 100%;
+}
+}

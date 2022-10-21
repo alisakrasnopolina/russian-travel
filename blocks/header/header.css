@@ -1,0 +1,21 @@
+.header {
+  width: calc(100% - 2 * 48px);
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 28px 0 0;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 984px) {
+  .header {
+    width: calc(100% - 2 * 24px);
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .header {
+    width: calc(100% - 2 * 16px);
+    padding: 16px 0 0;
+  }
+}
